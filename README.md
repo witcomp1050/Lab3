@@ -2,7 +2,7 @@
 
 This is a JavaFX application demonstrating **inheritance**, **polymorphism**, and the use of the **Java Collections Framework** (`List`, `Map`) to manage interactive GUI elements.
 
-## 🔍 Overview
+## Overview
 
 Users can:
 - Click a button to add a random shape (`Circle`, `Rectangle`, `Triangle`)
